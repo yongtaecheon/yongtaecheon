@@ -19,7 +19,7 @@
 **Backend**
 
 ![NestJS](https://img.shields.io/badge/Nest%20JS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803.svg?&style=for-the-badge&logo=TypeORM&logoColor=white)
+![TypeORM](https://img.shields.io/badge/Type%20ORM-FE0803.svg?&style=for-the-badge&logo=&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white)
