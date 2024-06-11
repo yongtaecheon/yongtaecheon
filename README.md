@@ -1,9 +1,15 @@
 <div style="text-align: center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongtaecheon&layout=compact)
+
 # Pages
+
 [![Velog](https://img.shields.io/badge/Velog-20c997.svg?&style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@yongtaecheon/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)](https://yongtaecheon.notion.site)
+[![Music Studio](https://img.shields.io/badge/Music%20Studio-153456.svg?&style=for-the-badge&logo=AppleMusic&logoColor=white)](https://taeon-studio.vercel.app)
+
 # Skills
+
 **Frontend**
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -44,8 +50,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![STL](https://img.shields.io/badge/STL%20Containers-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
 
-
 **Baekjoon - Algorithm Solving**
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ide2143)](https://solved.ac/ide2143/)
+
 </div>
